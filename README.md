@@ -1,1 +1,1 @@
-# My Personal Blogging API
+# My Personal Blogging APP
